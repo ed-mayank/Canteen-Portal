@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(230, 236, 175);
+}
+.container {
+  margin: 20px;
+}
+
+.food {
+  margin-left:10px;
+}
